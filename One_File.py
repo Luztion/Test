@@ -11,8 +11,3 @@ for x in range(1, 5):
         for i in range(1, 5):
             print(x, y, i);
 '''
-
-yuyi = '123';
-yuyi=input("Go：");
-print("You daan：",yuyi);
-
